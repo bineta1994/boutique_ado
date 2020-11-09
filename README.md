@@ -68,7 +68,7 @@ Used github to store my data and to host my website.
 
 ## **Testing**
 
-Made use of boostrap drid system to make the website responsive. Try viewing all the pages in different browser sizes.
+Made use of boostrap grid system to make the website responsive. Try viewing all the pages in different browser sizes.
 
 **Media**: Retrieved the images from Code Institude
 
